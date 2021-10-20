@@ -1,0 +1,12 @@
+nltk==3.6.2
+networkx==2.6.2
+more-itertools==8.8.0
+numpy==1.21.1
+textacy==0.6.0
+pandas==1.2.5
+logging==0.4.9.6
+typing==3.7.4.3
+pyoperators==0.13.16
+pytest==6.2.4
+pytest-cov==2.12.1
+coverage==5.5
